@@ -155,7 +155,7 @@ Output
 ![hitsperday](https://user-images.githubusercontent.com/94472101/152870114-0cbccc49-fcb9-400d-8b0b-e77c699c3b1e.png)
 
 
-## counting the number of 404 Status Per day
+## Counting the number of 404 Status Per day
 
 ```
 import logparser
